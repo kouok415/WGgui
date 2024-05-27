@@ -1,2 +1,2 @@
 # WGgui
-WG GUI for non admin
+WG GUI for windows non admin user
